@@ -4,3 +4,4 @@ to incorporate different ML stuff in it, like spacy for lang detection, transfor
 transforming some of the features into numerical ones and so forth. RN its in very
 introductory stages, but I plan on running it through a few different models, and incorporate things
 like MLflow, some database stuff and APIs in the future. 
+Run pip install -r requirements.txt to install dependencies in a venv
