@@ -3,3 +3,5 @@ venv/
 .env/
 env/
 .ipynb_checkpoints/
+cleanup.sh
+create_env.sh
